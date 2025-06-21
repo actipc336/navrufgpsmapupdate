@@ -10,7 +10,7 @@ How to Update Navruf GPS Map? A Complete Guide
    :alt: My Project Logo
    :width: 400px
    :align: center
-   :target: https://aclogportal.com/
+   :target: https://navisolve.com/
 
 
 As the world becomes more connected, it's important to have up-to-date navigation tools to travel safely and efficiently. GPS systems are very important for helping drivers avoid traffic jams, find their way to new places, and find alternate routes in real time. The Navruf GPS is one such system that has become popular because it is cheap and works well. To get the most out of its features, you need to update your maps often. Updated maps make sure that directions are correct, that new roads are added, that traffic laws are changed, and that points of interest are better. This guide clearly and concisely shows you how to update your Navruf GPS maps.
